@@ -69,4 +69,5 @@ For this workshop you need the following:
 Find common terminology for reference [here](./CheatSheet.md)
 
 Testing gh action trigger with push
-testing the tag [skip ci]
+Testing the tag [skip ci]
+Testing gh action with pull request
